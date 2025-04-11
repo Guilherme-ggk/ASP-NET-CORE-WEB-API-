@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s0/DC3jaywMRm3iy6peCU6ELUTHSVTHN2B4Sx3woYjTjk0vBZbthW95W4BGDa775ZhW2wkhASOKnED6jfgekOA==",
+  "dgSpecHash": "KW6346X5vTVh0CDGhVXTCUtrhCe4QylOwFKMrmp4xWjSbxpQpSB+nOx+tWBMUnDZROL/GrRJvI3QCshEy2Ku0g==",
   "success": true,
-  "projectFilePath": "C:\\ASP .NET WEB API\\WebApiRestFul\\WebApiRestFul.csproj",
+  "projectFilePath": "C:\\ASP .NET WEB API\\ASP-NET-CORE-WEB-API-\\WebApiRestFul\\WebApiRestFul.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\30755\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\30755\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ASP .NET WEB API\\WebApiRestFul\\WebApiRestFul.csproj": {}
+    "C:\\ASP .NET WEB API\\ASP-NET-CORE-WEB-API-\\WebApiRestFul\\WebApiRestFul.csproj": {}
   },
   "projects": {
-    "C:\\ASP .NET WEB API\\WebApiRestFul\\WebApiRestFul.csproj": {
+    "C:\\ASP .NET WEB API\\ASP-NET-CORE-WEB-API-\\WebApiRestFul\\WebApiRestFul.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ASP .NET WEB API\\WebApiRestFul\\WebApiRestFul.csproj",
+        "projectUniqueName": "C:\\ASP .NET WEB API\\ASP-NET-CORE-WEB-API-\\WebApiRestFul\\WebApiRestFul.csproj",
         "projectName": "WebApiRestFul",
-        "projectPath": "C:\\ASP .NET WEB API\\WebApiRestFul\\WebApiRestFul.csproj",
+        "projectPath": "C:\\ASP .NET WEB API\\ASP-NET-CORE-WEB-API-\\WebApiRestFul\\WebApiRestFul.csproj",
         "packagesPath": "C:\\Users\\30755\\.nuget\\packages\\",
-        "outputPath": "C:\\ASP .NET WEB API\\WebApiRestFul\\obj\\",
+        "outputPath": "C:\\ASP .NET WEB API\\ASP-NET-CORE-WEB-API-\\WebApiRestFul\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\30755\\AppData\\Roaming\\NuGet\\NuGet.Config",
